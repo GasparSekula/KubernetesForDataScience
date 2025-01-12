@@ -35,7 +35,7 @@ docker build -t cool-api:v1 .
 
 Build second image.
 ```bash
-docker build -t cool-api:v2 -f DockerfileConda .
+docker build -t cool-api:v2 -f DockerfileAnaconda .
 ```
 
 Run image.
